@@ -1,0 +1,10 @@
+org\Alora\EAP\Archetype\daos\AbstractDao.class
+center\alora\examples\ejb\IGame.class
+center\alora\examples\ejb\Greeter.class
+org\Alora\EAP\Archetype\jpa\Category.class
+org\Alora\EAP\Archetype\jpa\Game.class
+center\alora\examples\ejb\GameBean.class
+org\Alora\EAP\Archetype\daos\CategoryDao.class
+org\Alora\EAP\Archetype\daos\GameDao.class
+org\Alora\EAP\Archetype\archetypes\jpa\Game.class
+org\Alora\EAP\Archetype\examples\ejb\Greeter.class
